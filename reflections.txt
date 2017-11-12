@@ -6,4 +6,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+I learned a bit more about html tags and elements.
+Nothing has been easy.
+Learn things I never understood.
+By trying to do things by myself and if I couldn’t do it i tried to search and learn to do it.
